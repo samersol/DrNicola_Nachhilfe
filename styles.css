@@ -208,7 +208,7 @@ body{
   background-image: linear-gradient(to bottom, #e9b85b, #be8419); /* Replace with your colors */
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
   .gradient-rectangle {
     height: 500px;
   }
